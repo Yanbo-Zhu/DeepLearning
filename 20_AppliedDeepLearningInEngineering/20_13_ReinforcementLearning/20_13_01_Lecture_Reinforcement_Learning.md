@@ -515,7 +515,7 @@ Which of the individual actions where responsible for the reward? ->  Sparse rew
 
 ---
 
-## 9.2.1 **设计奖励函数的最佳实践**
+## 9.3 **设计奖励函数的最佳实践**
 
 **测试循环**
 ```

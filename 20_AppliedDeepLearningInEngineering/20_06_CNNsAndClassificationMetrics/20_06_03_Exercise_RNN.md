@@ -37,7 +37,7 @@ Objective: Design, train, and evaluate a CNN model using the Keras Sequential AP
 (d) Train the CNN for a reasonable number of epochs. Plot the training and validation losses using the history object from model.fit() . Optionally, implement an EarlyStopping callback to prevent over-fitting.
 
 
-# Problem 3: Comparison with a Fully Connected Image Classifier
+# 3 Problem 3: Comparison with a Fully Connected Image Classifier
 Objective: Compare the CNN to a fully connected (dense) feed-forward network in terms of performance and parameter efficiency. Consider the fully connected feed-forward neural network from Exercise 04 that operates directly on flattened image inputs.
 (a) Train the dense model using the same training, validation, and test data splits as in Problem 2. Plot and compare the training and validation loss curves for both models.
 (b) Evaluate both models on the test set using model.evaluate() and compare their classification accura- cies. Discuss the differences in performance, generalization behavior, and the number of trainable param- eters.
